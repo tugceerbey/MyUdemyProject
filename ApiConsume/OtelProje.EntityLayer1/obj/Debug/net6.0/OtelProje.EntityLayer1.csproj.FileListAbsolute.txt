@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.EntityLayer1\bin\Debug\net6.0\OtelProje.EntityLayer1.deps.json
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.EntityLayer1\bin\Debug\net6.0\OtelProje.EntityLayer1.dll
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.EntityLayer1\bin\Debug\net6.0\OtelProje.EntityLayer1.pdb
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.EntityLayer1\obj\Debug\net6.0\OtelProje.EntityLayer1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.EntityLayer1\obj\Debug\net6.0\OtelProje.EntityLayer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.EntityLayer1\obj\Debug\net6.0\OtelProje.EntityLayer1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.EntityLayer1\obj\Debug\net6.0\OtelProje.EntityLayer1.AssemblyInfo.cs
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.EntityLayer1\obj\Debug\net6.0\OtelProje.EntityLayer1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.EntityLayer1\obj\Debug\net6.0\OtelProje.EntityLayer1.dll
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.EntityLayer1\obj\Debug\net6.0\refint\OtelProje.EntityLayer1.dll
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.EntityLayer1\obj\Debug\net6.0\OtelProje.EntityLayer1.pdb
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.EntityLayer1\obj\Debug\net6.0\ref\OtelProje.EntityLayer1.dll
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.EntityLayer1\bin\Debug\net6.0\OtelProje.EntityLayer1.runtimeconfig.json
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.EntityLayer1\obj\Debug\net6.0\OtelProje.EntityLayer1.genruntimeconfig.cache

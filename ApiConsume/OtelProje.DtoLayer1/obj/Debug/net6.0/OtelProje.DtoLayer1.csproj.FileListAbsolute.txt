@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DtoLayer1\bin\Debug\net6.0\OtelProje.DtoLayer1.deps.json
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DtoLayer1\bin\Debug\net6.0\OtelProje.DtoLayer1.dll
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DtoLayer1\bin\Debug\net6.0\OtelProje.DtoLayer1.pdb
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DtoLayer1\obj\Debug\net6.0\OtelProje.DtoLayer1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DtoLayer1\obj\Debug\net6.0\OtelProje.DtoLayer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DtoLayer1\obj\Debug\net6.0\OtelProje.DtoLayer1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DtoLayer1\obj\Debug\net6.0\OtelProje.DtoLayer1.AssemblyInfo.cs
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DtoLayer1\obj\Debug\net6.0\OtelProje.DtoLayer1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DtoLayer1\obj\Debug\net6.0\OtelProje.DtoLayer1.dll
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DtoLayer1\obj\Debug\net6.0\refint\OtelProje.DtoLayer1.dll
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DtoLayer1\obj\Debug\net6.0\OtelProje.DtoLayer1.pdb
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DtoLayer1\obj\Debug\net6.0\ref\OtelProje.DtoLayer1.dll
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DtoLayer1\bin\Debug\net6.0\OtelProje.DtoLayer1.runtimeconfig.json
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DtoLayer1\obj\Debug\net6.0\OtelProje.DtoLayer1.genruntimeconfig.cache
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DtoLayer1\bin\Debug\net6.0\OtelProje.EntityLayer1.dll
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DtoLayer1\bin\Debug\net6.0\OtelProje.EntityLayer1.pdb
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DtoLayer1\obj\Debug\net6.0\OtelProje.DtoLayer1.csproj.CopyComplete

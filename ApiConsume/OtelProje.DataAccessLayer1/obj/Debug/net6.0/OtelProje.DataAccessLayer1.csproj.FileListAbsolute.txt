@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DataAccessLayer1\obj\Debug\net6.0\OtelProje.DataAccessLayer1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DataAccessLayer1\obj\Debug\net6.0\OtelProje.DataAccessLayer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DataAccessLayer1\obj\Debug\net6.0\OtelProje.DataAccessLayer1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DataAccessLayer1\obj\Debug\net6.0\OtelProje.DataAccessLayer1.AssemblyInfo.cs
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DataAccessLayer1\obj\Debug\net6.0\OtelProje.DataAccessLayer1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DataAccessLayer1\bin\Debug\net6.0\OtelProje.DataAccessLayer1.deps.json
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DataAccessLayer1\bin\Debug\net6.0\OtelProje.DataAccessLayer1.runtimeconfig.json
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DataAccessLayer1\bin\Debug\net6.0\OtelProje.DataAccessLayer1.dll
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DataAccessLayer1\bin\Debug\net6.0\OtelProje.DataAccessLayer1.pdb
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DataAccessLayer1\bin\Debug\net6.0\OtelProje.EntityLayer1.dll
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DataAccessLayer1\bin\Debug\net6.0\OtelProje.EntityLayer1.pdb
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DataAccessLayer1\obj\Debug\net6.0\OtelProje.DataAccessLayer1.csproj.CopyComplete
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DataAccessLayer1\obj\Debug\net6.0\OtelProje.DataAccessLayer1.dll
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DataAccessLayer1\obj\Debug\net6.0\refint\OtelProje.DataAccessLayer1.dll
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DataAccessLayer1\obj\Debug\net6.0\OtelProje.DataAccessLayer1.pdb
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DataAccessLayer1\obj\Debug\net6.0\OtelProje.DataAccessLayer1.genruntimeconfig.cache
+C:\Users\HP\source\repos\MyUdemyProjem\ApiConsume\OtelProje.DataAccessLayer1\obj\Debug\net6.0\ref\OtelProje.DataAccessLayer1.dll
